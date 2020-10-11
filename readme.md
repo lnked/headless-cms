@@ -1,9 +1,9 @@
-[![license](https://img.shields.io/github/license/lnked/react-mobx-typescript-starter.svg)](https://github.com/lnked/react-mobx-typescript-starter/blob/master/LICENSE)
-[![Build Status](https://travis-ci.org/lnked/react-mobx-typescript-starter.svg?branch=master)](https://travis-ci.org/lnked/react-mobx-typescript-starter)
+[![license](https://img.shields.io/github/license/lnked/headless-cms.svg)](https://github.com/lnked/headless-cms/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/lnked/headless-cms.svg?branch=master)](https://travis-ci.org/lnked/headless-cms)
 
 ---
 
-# react-mobx-typescript-starter
+# headless-cms
 
 ## Installation
 
@@ -17,16 +17,16 @@ mkdir app
 cd app
 
 # Clone the repository (stable branch)
-git clone -b master https://github.com/lnked/react-mobx-typescript-starter.git .
+git clone -b master https://github.com/lnked/headless-cms.git .
 
-# OR download the latest release at: https://github.com/lnked/react-mobx-typescript-starter/releases/latest
+# OR download the latest release at: https://github.com/lnked/headless-cms/releases/latest
 ```
 
 OR
 
 ```bash
 git init
-git remote add origin git@github.com:lnked/react-mobx-typescript-starter.git
+git remote add origin git@github.com:lnked/headless-cms.git
 git fetch origin
 git pull origin master
 ```
@@ -58,4 +58,4 @@ yarn lint:fix
 ```
 
 ## License
-[![FOSSA Status](https://app.fossa.io/api/projects/custom%2B9130%2Fgit%40github.com%3Alnked%2Freact-mobx-typescript-starter.git.svg?type=large)](https://app.fossa.io/projects/custom%2B9130%2Fgit%40github.com%3Alnked%2Freact-mobx-typescript-starter.git?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/custom%2B9130%2Fgit%40github.com%3Alnked%2Fheadless-cms.git.svg?type=large)](https://app.fossa.io/projects/custom%2B9130%2Fgit%40github.com%3Alnked%2Fheadless-cms.git?ref=badge_large)
