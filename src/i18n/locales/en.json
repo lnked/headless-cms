@@ -1,0 +1,21 @@
+{
+  "title": "Title text: {{count}}",
+  "example": "Example text",
+  "age": { "label": "Age" },
+  "home": { "label": "Home" },
+  "name": { "label": "Name" },
+  "navigation": {
+    "shop": "Shop",
+    "cart": "Cart",
+    "home": "Home",
+    "about": "About",
+    "forms": "Forms",
+    "login": "Login",
+    "topics": "Topics",
+    "profile": "Profile",
+    "counter": "Counter",
+    "context": "Context",
+    "protected": "Protected",
+    "page_not_found": "Page Not Found"
+  }
+}
