@@ -14,7 +14,7 @@ export const Nav = styled.nav`
 
 export const Item = styled.div`
   &:not(:last-child) {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
 `;
 
@@ -27,12 +27,16 @@ export const Link = styled(PreloadLink)`
   display: inline-block;
   text-decoration: none;
   transition: color .25s ease-in-out;
+  width: 24px;
+  height: 24px;
+  font-size: 0;
+  color: #efefef;
 
   &:hover {
-    color: #61dafb;
+    color: orange;
   }
 
   &.active {
-    color: #61dafb;
+    color: orange;
   }
 `;
